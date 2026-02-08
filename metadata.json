@@ -1,0 +1,8 @@
+
+{
+  "name": "Baroda Cars - Premium Used Car Dealership",
+  "description": "A high-end, responsive car dealership application for Baroda Cars, featuring a vast inventory, client-side filtering, carousels, and detailed vehicle specifications.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
